@@ -324,7 +324,7 @@ export class HaxPsu extends LitElement {
         color: white;
         padding: 16px;
         --count-up-number-font-weight: 500;
-        --count-up-number-font-size: 64px;
+        --count-up-number-font-size: 48px;
         --count-up-color: white;
       }
 
